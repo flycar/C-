@@ -1,0 +1,6 @@
+C:\Users\dawn\Desktop\DOWNLOADS\棋牌游戏算法\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dawn\Desktop\DOWNLOADS\棋牌游戏算法\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\dawn\Desktop\DOWNLOADS\棋牌游戏算法\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\dawn\Desktop\DOWNLOADS\棋牌游戏算法\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dawn\Desktop\DOWNLOADS\棋牌游戏算法\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dawn\Desktop\DOWNLOADS\棋牌游戏算法\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
